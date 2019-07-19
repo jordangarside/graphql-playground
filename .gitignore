@@ -10,13 +10,16 @@ example/yarn.lock
 
 # production
 /build
+/dist
 
 # misc
 .DS_Store
 .env
 npm-debug.log
 .idea
-lib
 /middleware
 playground.css
-*.log
+/middleware-build
+
+# editors
+.vscode
